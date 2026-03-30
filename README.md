@@ -51,10 +51,12 @@ Seorang *Software Engineer* berusia 17 tahun dari Klaten, Indonesia. Saya memili
 
 ---
 
-### 📊 GitHub HD Metrics & Activity
+### 🛠️ Featured Languages
 
 <div align="center">
-  <img src="https://metrics.lecoq.io/24Developer?theme=tokyonight" alt="Daiyan's HD Stats" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python Logo" height="150" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++ Logo" height="150" />
 </div>
 
 ---
@@ -64,7 +66,7 @@ Seorang *Software Engineer* berusia 17 tahun dari Klaten, Indonesia. Saya memili
 <div align="center">
   <i>Bosan ngoding? Berani lawan AI Tic-Tac-Toe dengan tingkat kesulitan Hardcore? Klik tombol di bawah!</i><br/><br/>
   <a href="https://playtictactoe.org/">
-    <img src="https://img.shields.io/badge/🎮_PLAY_TIC--TAC--TOE-8B5CF6?style=for-the-badge&padding=large&logoColor=white" alt="Play Tic Tac Toe" />
+    <img src="https://img.shields.io/badge/🎮_PLAY_TIC--TAC--TOE-8B5CF6?style=for-the-badge&padding=large&logoColor=white" alt="Play Tic Tac Toe Button" />
   </a>
 </div>
 
@@ -86,11 +88,11 @@ Seorang *Software Engineer* berusia 17 tahun dari Klaten, Indonesia. Saya memili
   <img src="https://capsule-render.vercel.app/api?type=rect&color=8b5cf6&height=2&width=100%">
   <br/><br/>
   <a href="https://github.com/24Developer">
-    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F24Developer&count_bg=%238B5CF6&title_bg=%231A1B27&icon=github.svg&icon_color=%23E7E7E7&title=PROFILE+VIEWS&edge_flat=false" alt="Profile Views"/>
+    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F24Developer&count_bg=%238B5CF6&title_bg=%231A1B27&icon=github.svg&icon_color=%23E7E7E7&title=PROFILE+VIEWS&edge_flat=false" alt="Profile Views Counter"/>
   </a>
   <br/><br/>
   <i>"Proudly built with obsession, coffee, and AI. ☕🤖"</i>
   <br/><br/>
-  <a href="mailto:idrisdeveloper2@gmail.com"><img src="https://img.shields.io/badge/Email-idrisdeveloper2%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://instagram.com/dyn_idrs/"><img src="https://img.shields.io/badge/Instagram-%40dyn__idrs-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+  <a href="mailto:idrisdeveloper2@gmail.com"><img src="https://img.shields.io/badge/Email-idrisdeveloper2%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/></a>
+  <a href="https://instagram.com/dyn_idrs/"><img src="https://img.shields.io/badge/Instagram-%40dyn__idrs-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/></a>
 </div>
