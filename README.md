@@ -1,1 +1,91 @@
-buat untuk masuk SEO google jug ai jadi perbagus lagi data:image/png;base64,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 logo esp32 , typing SVG ganti jadi https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3BrcG92MnlrY2tsaW5lejlldjAyaWF3aTVnMTdiNm5henN2ZjcwcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=10b981&height=280&section=header&text=Daiyan%20Idris%20Haryanto&fontSize=65&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=Software%20Engineer%20|%20The%20Code%20Forest%20Wizard&descAlignY=65&descAlign=62" alt="Daiyan Idris Haryanto - Software Engineer and IoT Specialist from Indonesia" />
+
+  <br/>
+
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3BrcG92MnlrY2tsaW5lejlldjAyaWF3aTVnMTdiNm5henN2ZjcwcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif" width="100%" alt="Forest Pixel Art Background" />
+
+  <h1>Turning Coffee into Code Since Day One. ☕</h1>
+  
+  <p><b>Full-Stack Developer | IoT Systems Engineer | Server Admin</b></p>
+  <p><i>17 Years Old • Based in Klaten, Central Java, Indonesia 🇮🇩</i></p>
+</div>
+
+---
+
+## 👨‍💻 Who Am I?
+I'm **Daiyan Idris Haryanto**. Most people my age are playing games; I'm busy building the servers they run on. I'm a 17-year-old dev from Indonesia who’s obsessed with the "how it works" part of tech. 
+
+Whether I’m raching code for **Full-stack Web (PHP/CI4)**, wiring up **IoT nodes (ESP32/C++)**, or managing **Linux servers** so they don't catch fire—I live for the challenge. If a problem exists, I’ll find a way to script it into submission. **"APAAJA BISA"** isn't just a motto; it's how I work.
+
+- 🔭 **Current Mission:** Building **SASADAY MART**, a POS system that actually feels modern and fast.
+- 🏆 **Major Win:** 2nd Place National AMICTA (Amikom ICT Award) for IoT Innovation.
+- ⚡ **Fun Fact:** I dream in C++ and Python, but I speak Luau when I'm bored.
+
+---
+
+## 🔮 Core Mastery
+
+<div align="center">
+  <table border="0">
+    <tr>
+      <td align="center" width="33%">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="95" alt="Python Specialist - Daiyan Idris" />
+        <br/><b>PYTHON</b><br/><sub>Automation & Scripting</sub>
+      </td>
+      <td align="center" width="33%">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="95" alt="C++ Developer - Daiyan Idris" />
+        <br/><b>C++</b><br/><sub>High Performance Logic</sub>
+      </td>
+      <td align="center" width="33%">
+        <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAOEAAADhCAMAAAAJbSJIAAAAllBMVEX/MDT//////v7/LzP/Mzf/LDD/KS3/JCn/ISb/+/v/LDH/Iyj/KS7/+Pj/9fX/7+//6en/GyD/0NH/tLX/xsf/vL3/TE//REf/zc7/4eL/iYv/g4X/Oz//QEP/2dr/dnj/o6T/l5n/YWT/rK3/a27/WVz/Fhv/foD/U1b/kZP/3d7/ZWf/gYP/mpv/SUz/c3X/qar/BxDgCPRiAAAbJElEQVR4nN1d54KqOhAGEhJApEhRELArumvZ93+5mwChKEF3xd17nB+3nAOSL5NMz0QQ20gSRdVInP06jaHw/yYYp+u9kxgqGbXUhkVoRWgEziy2FV0DAPw1hDtERqjpihLPnMBoxXKDkMyD5YaRolNo/3cG5kRHCXQlCl1LEm/4eIWQMNpyZhD99aB/RAjOHOtmrTYRSqLqzSL9r4f6Y9Kjs6desVFoArQ+x/8uPkr6eGc1ITZ56Pr/e8lyj4Dmuxwekk06h/86PkoAzusCp8ZDc//PMzAnAPbmLQ/JFgzlvx5abySH1WYUGEAz1P56XD2SHJoMYsnD/ftwkJK2b/JQEufvsQUrAvOCiUIO0H0LKVonAN0copBLGf+91igl2c+lTc7D6btxkBKYljwUvfFbIhx7DKE1e781SkmeWRlCSXKid2QhYWLkEFdKoCz8t90JPmVMJAjdf8OT/wFRjSEKkhH+mx79I4RCQxLEIH7PXUgJxAHhoaP89TheSIojCuruXeUMJX2nCsZbantGYGwIyTsvUrJME+GttyHdiML+nbch2Yh7Ya29rcInBLW1kL6zoCGiJhXeWN9TArHwduGLK3rnPfjrBGGWzsyI/h98t9kFypaQnRH5j6/tVkGy8E4wtZnjTpLAsqwgSCbe6jhd+5GmKPhdIijyaSTekDlx9uc00pH8BuIOzUxJlSpSVRZ1t9z5bhMh9K+nTeT5LQsp0uw/1IN3XEcKBv/wrtT80W2VBMOZgQwmiw1W5H8Wo7w5iLySniyvINIiHm8m2P8qRgDTcNKFMYdpJKG2/X9jBDwFB2QF+3PjDkYKcg/t/60CAQjGgo6I7G8T/hDiL22aGCJvQzKM5uL054K1FQHBt/ZG3jw8b8YQIV27eQhC2dbPraVZTYyH/Z9ihNoAaPhm+Dr6cPIKCCNwneMsjTBG4Nq0h5qCP5ygc7GSv1InU4B/C9A1QV07et4OXs2xHV+ycZd6PCGKPNXtgXYFEoIBXl7uYjS8jf030Qey/rwhrb2pI4S6PUvUcsxMj5sHd79B9uBa/ACkLedW936kS1XGfwFRx17GqUNaCTyowJV5PV4pAzo0k/lG2eJrEatrm/nwju4Yur79+style=for-the-badge&logo=codeigniter&logoColor=white" width="95" alt="ESP32 IoT Specialist - Daiyan Idris" />
+        <br/><b>ESP32 / IoT</b><br/><sub>Hardware Manipulation</sub>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+### 🐍 Contribution Forest
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/24Developer/24Developer/output/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#10b981&color_dots=#161b22,#064e3b,#059669,#10b981,#34d399">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/24Developer/24Developer/output/github-contribution-grid-snake-dark.svg">
+  </picture>
+</div>
+
+---
+
+## 🛠️ Tech Arsenal
+
+<div align="center">
+  <b>WEB DEVELOPMENT</b><br/>
+  <img src="https://img.shields.io/badge/CodeIgniter%204-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <br/><br/>
+  
+  <b>INFRASTRUCTURE</b><br/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pterodactyl-0952C8?style=for-the-badge&logo=pterodactyl&logoColor=white" />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=10b981&height=120&section=header&text=LET'S%20CONNECT!&fontSize=40&fontColor=ffffff&fontAlignY=65" />
+
+  <br/>
+
+  <a href="https://instagram.com/dyn_idrs/"><img src="https://img.shields.io/badge/Instagram-@dyn__idrs-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="mailto:idrisdeveloper2@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.youtube.com/@Yan-gc9pb"><img src="https://img.shields.io/badge/YouTube-Yan%20Creator-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+
+  <br/><br/>
+
+  <i>"The best time to plant a tree was 20 years ago. The second best time is now. Same with code."</i> 🌳💻
+  <br/>
+  <b>© 2026 DAIYAN IDRIS HARYANTO | Klaten, Indonesia 🇮🇩</b>
+</div>
