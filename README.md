@@ -51,23 +51,21 @@ Seorang *Software Engineer* berusia 17 tahun dari Klaten, Indonesia. Saya memili
 
 ---
 
-### 🏆 GitHub Trophies
+### 📊 GitHub HD Metrics & Activity
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=24Developer&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="Daiyan's Trophies" />
+  <img src="https://metrics.lecoq.io/24Developer?theme=tokyonight" alt="Daiyan's HD Stats" />
 </div>
 
 ---
 
-### 📊 GitHub Activity
+### 🎮 Take a Break: Challenge the AI!
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=24Developer&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0e1a&cache_seconds=86400" alt="Daiyan's Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=24Developer&theme=tokyonight&hide_border=true&background=0a0e1a" alt="Daiyan's Streak" width="48%" />
-</div>
-<br/>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=24Developer&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0e1a&cache_seconds=86400" alt="Top Languages" width="45%" />
+  <i>Bosan ngoding? Berani lawan AI Tic-Tac-Toe dengan tingkat kesulitan Hardcore? Klik tombol di bawah!</i><br/><br/>
+  <a href="https://playtictactoe.org/">
+    <img src="https://img.shields.io/badge/🎮_PLAY_TIC--TAC--TOE-8B5CF6?style=for-the-badge&padding=large&logoColor=white" alt="Play Tic Tac Toe" />
+  </a>
 </div>
 
 ---
@@ -86,6 +84,10 @@ Seorang *Software Engineer* berusia 17 tahun dari Klaten, Indonesia. Saya memili
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=8b5cf6&height=2&width=100%">
+  <br/><br/>
+  <a href="https://github.com/24Developer">
+    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F24Developer&count_bg=%238B5CF6&title_bg=%231A1B27&icon=github.svg&icon_color=%23E7E7E7&title=PROFILE+VIEWS&edge_flat=false" alt="Profile Views"/>
+  </a>
   <br/><br/>
   <i>"Proudly built with obsession, coffee, and AI. ☕🤖"</i>
   <br/><br/>
