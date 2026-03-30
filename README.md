@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0f172a&height=220&section=header&text=Daiyan%20Idris%20Haryanto&fontSize=45&fontColor=22c55e&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20IoT%20Engineer%20Indonesia&descColor=94a3b8&descAlignY=60"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0f172a&height=220&section=header&text=Daiyan%20Idris%20Haryanto&fontSize=45&fontColor=22c55e&animation=fadeIn&fontAlignY=38&desc=Engineering%20Student%20%7C%20IoT%20Developer%20Indonesia&descColor=94a3b8&descAlignY=60"/>
 
 <br/>
 
@@ -8,10 +8,10 @@
 
 <br/><br/>
 
-<h2>Full-Stack Developer & IoT Engineer from Indonesia</h2>
+<h2>Engineering Student & IoT Developer from Indonesia</h2>
 
 <p>
-Building scalable web systems, IoT solutions, and server infrastructure.<br/>
+Focused on building real-world systems with code and hardware.<br/>
 Based in Central Java, Indonesia 🇮🇩
 </p>
 
@@ -19,20 +19,20 @@ Based in Central Java, Indonesia 🇮🇩
 
 ---
 
-## 👨‍💻 Daiyan Idris Haryanto | Software Engineer Indonesia
+## 👨‍💻 About Me
 
-I am a **Full-Stack Developer, IoT Engineer, and Linux Server Administrator from Indonesia**, focused on building efficient, scalable, and production-ready systems.
+I am an **Engineering Student from Indonesia** with a strong interest in **IoT systems, embedded programming, and backend development**.
 
-With experience in **ESP32 IoT development, backend systems using PHP (CodeIgniter 4), and Linux server management**, I specialize in solving real-world problems through technology.
+I enjoy building projects using **ESP32, C++, and Python**, as well as developing web-based systems using **PHP (CodeIgniter 4)** and managing **Linux servers**.
 
 - 🌍 Location: **Klaten, Central Java, Indonesia**
-- 🔧 Skills: **ESP32, C++, Python, PHP, Tailwind, Linux, Docker**
-- 🚀 Current Project: **SASADAY MART (Modern POS System Indonesia)**
+- 🔧 Skills: **ESP32, C++, Python, PHP, Linux, Docker**
+- 🚀 Current Project: **SASADAY MART (POS System)**
 - 🏆 Achievement: **2nd Place AMICTA – National IoT Innovation**
 
 ---
 
-## ⚙️ Tech Stack & Tools
+## ⚙️ Tech Stack
 
 <div align="center">
 
@@ -40,9 +40,9 @@ With experience in **ESP32 IoT development, backend systems using PHP (CodeIgnit
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/ESP32-IoT%20Development%20Indonesia-1f2937?style=for-the-badge&logo=espressif&logoColor=red"/>
+<img src="https://img.shields.io/badge/ESP32-IoT%20Development-1f2937?style=for-the-badge&logo=espressif&logoColor=red"/>
 <img src="https://img.shields.io/badge/CodeIgniter4-PHP%20Framework-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linux-Server%20Administration-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/Linux-System%20Administration-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 
 </div>
 
@@ -64,7 +64,7 @@ With experience in **ESP32 IoT development, backend systems using PHP (CodeIgnit
 
 ---
 
-## 🐍 GitHub Contribution Activity
+## 🐍 Contribution Activity
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/24Developer/24Developer/output/github-contribution-grid-snake-dark.svg" width="90%"/>
@@ -72,24 +72,24 @@ With experience in **ESP32 IoT development, backend systems using PHP (CodeIgnit
 
 ---
 
-## 🌐 Contact & Social Media
+## 🌐 Connect
 
 <div align="center">
 
 <a href="https://instagram.com/dyn_idrs/">
-<img src="https://img.shields.io/badge/Instagram-Developer%20Indonesia-0f172a?style=for-the-badge&logo=instagram&logoColor=E4405F"/>
+<img src="https://img.shields.io/badge/Instagram-Engineering%20Student-0f172a?style=for-the-badge&logo=instagram&logoColor=E4405F"/>
 </a>
 
 <a href="mailto:idrisdeveloper2@gmail.com">
-<img src="https://img.shields.io/badge/Email-FullStack%20Developer-0f172a?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
+<img src="https://img.shields.io/badge/Email-Contact-0f172a?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
 </a>
 
 <a href="https://www.youtube.com/@Yan-gc9pb">
-<img src="https://img.shields.io/badge/YouTube-Tech%20Content%20Creator-0f172a?style=for-the-badge&logo=youtube&logoColor=FF0000"/>
+<img src="https://img.shields.io/badge/YouTube-Tech%20Content-0f172a?style=for-the-badge&logo=youtube&logoColor=FF0000"/>
 </a>
 
 <br/><br/>
 
-<i>“Building technology that solves real problems.”</i>
+<i>“Learning, building, and improving — one project at a time.”</i>
 
 </div>
