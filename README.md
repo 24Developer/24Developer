@@ -7,7 +7,7 @@
 
   <img src="https://readme-typing-svg.demolab.com?font=Righteous&size=24&pause=1000&color=10b981&center=true&vCenter=true&width=800&lines=Full-Stack+Web+Developer+🌐;IoT+Systems+Engineer+🤖;Server+Infrastructure+Wizard+🖥️;Game+Server+Architect+🎮;Tech+Innovator+from+Indonesia+🇮🇩;Powered+by+Obsession+%26+AI+💪" alt="Typing SVG" />
 
-  <b>17 Years Old. Pure Talent. Zero Compromise.</b>
+  <b>🍃 17 Years Old. Pure Talent. Zero Compromise. 🍃</b>
 </div>
 
 ---
@@ -15,18 +15,31 @@
 ## 👨‍💻 WHO AM I?
 
 <div align="left">
+ Saya adalah seorang <b>Software Engineer</b> dari Klaten, Indonesia. Saya meracik baris kode menjadi sistem yang hidup—mulai dari <i>Full-stack Web</i>, arsitektur <i>Internet of Things</i> (IoT), hingga infrastruktur server kelas berat.
+
+- 🎯 **Mission:** Building systems that are FAST, SMART, and BEAUTIFUL.
+- 💡 **Belief:** Great code + Great coffee = Greater solutions.
+- 🚀 **Motto:** *"APAAJA BISA!"* - I CAN DO ANYTHING!
+</div>
+
+---
+
+## 🔮 THE WIZARD'S CORE MASTERY
+
+<div align="center">
   <table border="0">
     <tr>
-      <td width="60%">
-        <p>Saya adalah seorang <b>Software Engineer</b> dari Klaten, Indonesia. Saya meracik baris kode menjadi sistem yang hidup—mulai dari <i>Full-stack Web</i>, arsitektur <i>Internet of Things</i> (IoT), hingga infrastruktur server kelas berat.</p>
-        <ul>
-          <li>🎯 <b>Mission:</b> Building systems that are FAST, SMART, and BEAUTIFUL.</li>
-          <li>💡 <b>Belief:</b> Great code + Great coffee = Greater solutions.</li>
-          <li>🚀 <b>Motto:</b> <i>"APAAJA BISA!"</i> - I CAN DO ANYTHING!</li>
-        </ul>
+      <td align="center" width="33%">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="90" height="90" />
+        <br/><b>PYTHON</b><br/><sub>The Forest Snake<br/><i>Scripting & AI Automation</i></sub>
       </td>
-      <td width="40%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=24Developer&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=10b981&text_color=e0e0e0" alt="Top Langs" />
+      <td align="center" width="33%">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="90" height="90" />
+        <br/><b>C++</b><br/><sub>High Performance<br/><i>The Source of Power</i></sub>
+      </td>
+      <td align="center" width="33%">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/espressif/espressif-original.svg" width="90" height="90" />
+        <br/><b>ESP32 / IoT</b><br/><sub>Hardware Soul<br/><i>Connecting Worlds</i></sub>
       </td>
     </tr>
   </table>
@@ -47,26 +60,18 @@
 ## 🛠️ TECH ARSENAL
 
 <div align="center">
-  <b>PROGRAMMING LANGUAGES</b><br/>
-  <img src="https://img.shields.io/badge/C%2B%2B-Professional-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-Expert-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-Fluent-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-Master-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Lua-Advanced-2C2D72?style=for-the-badge&logo=lua&logoColor=white" />
+  <b>WEB DEVELOPMENT</b><br/>
+  <img src="https://img.shields.io/badge/CodeIgniter%204-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white" />
   <br/><br/>
   
-  <b>WEB & INFRASTRUCTURE</b><br/>
-  <img src="https://img.shields.io/badge/CodeIgniter%204-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <b>INFRASTRUCTURE</b><br/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Pterodactyl-0952C8?style=for-the-badge&logo=pterodactyl&logoColor=white" />
-  <br/><br/>
-
-  <b>IoT & HARDWARE</b><br/>
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
-  <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" />
-  <img src="https://img.shields.io/badge/IoT-Expert-10b981?style=for-the-badge" />
 </div>
 
 ---
