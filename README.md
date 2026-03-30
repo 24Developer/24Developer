@@ -1,17 +1,17 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0f172a&height=220&section=header&text=Daiyan%20Idris%20Haryanto&fontSize=45&fontColor=22c55e&animation=fadeIn&fontAlignY=38&desc=Engineering%20Student%20%7C%20IoT%20Developer%20Indonesia&descColor=94a3b8&descAlignY=60"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0f172a&height=230&section=header&text=Daiyan%20Idris%20Haryanto&fontSize=48&fontColor=22c55e&animation=fadeIn&fontAlignY=38&desc=Engineering%20Student%20%7C%20IoT%20Developer%20Indonesia&descColor=94a3b8&descAlignY=62"/>
 
 <br/>
 
-<img src="https://media0.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="45%" />
+<img src="https://media0.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="40%" />
 
 <br/><br/>
 
-<h2>Engineering Student & IoT Developer from Indonesia</h2>
+<h2>Engineering Student • IoT Developer • System Builder</h2>
 
 <p>
-Focused on building real-world systems with code and hardware.<br/>
+I build real systems — from <b>embedded devices</b> to <b>web applications</b> and <b>server infrastructure</b>.<br/>
 Based in Central Java, Indonesia 🇮🇩
 </p>
 
@@ -19,36 +19,63 @@ Based in Central Java, Indonesia 🇮🇩
 
 ---
 
-## 👨‍💻 About Me
+## 🧠 About Me
 
-I am an **Engineering Student from Indonesia** with a strong interest in **IoT systems, embedded programming, and backend development**.
+I'm an **Engineering Student from Indonesia** focused on building **efficient, scalable, and real-world technology solutions**.
 
-I enjoy building projects using **ESP32, C++, and Python**, as well as developing web-based systems using **PHP (CodeIgniter 4)** and managing **Linux servers**.
+My work spans across:
+- Embedded Systems (ESP32 / IoT)
+- Backend Web Development (PHP / CodeIgniter)
+- Linux Server & Infrastructure
 
-- 🌍 Location: **Klaten, Central Java, Indonesia**
-- 🔧 Skills: **ESP32, C++, Python, PHP, Linux, Docker**
-- 🚀 Current Project: **SASADAY MART (POS System)**
+I don’t just learn — I build, test, and deploy.
+
+- 🚀 Current: **SASADAY MART (Modern POS System)**
 - 🏆 Achievement: **2nd Place AMICTA – National IoT Innovation**
+- ⚡ Mindset: *Build first. Optimize later. Master both.*
 
 ---
 
-## ⚙️ Tech Stack
+## ⚙️ Tech Stack & Tools
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,cpp,php,tailwind,linux,docker" />
+### 💻 Programming & Development
+<img src="https://skillicons.dev/icons?i=cpp,python,php,js,html,css" />
+
+### 🧠 Frameworks & Tools
+<img src="https://skillicons.dev/icons?i=tailwind,nodejs,express" />
+
+### 🔌 IoT & Embedded
+<img src="https://img.shields.io/badge/ESP32-Embedded%20Systems-1f2937?style=for-the-badge&logo=espressif&logoColor=red"/>
+<img src="https://img.shields.io/badge/Arduino-IoT%20Platform-1f2937?style=for-the-badge&logo=arduino&logoColor=00979D"/>
+
+### 🖥️ Infrastructure & DevOps
+<img src="https://skillicons.dev/icons?i=linux,docker,git,github" />
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/ESP32-IoT%20Development-1f2937?style=for-the-badge&logo=espressif&logoColor=red"/>
 <img src="https://img.shields.io/badge/CodeIgniter4-PHP%20Framework-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linux-System%20Administration-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/MySQL-Database-0f172a?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pterodactyl-Server%20Panel-1d4ed8?style=for-the-badge"/>
 
 </div>
 
 ---
 
-## 📊 GitHub Statistics
+## 🚀 Featured Focus
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/SASADAY%20MART-POS%20System-22c55e?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/ESP32-IoT%20Projects-0f172a?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Linux-Server%20Management-0f172a?style=for-the-badge"/>
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
 
 <div align="center">
 
@@ -64,7 +91,7 @@ I enjoy building projects using **ESP32, C++, and Python**, as well as developin
 
 ---
 
-## 🐍 Contribution Activity
+## 🐍 Contribution Graph
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/24Developer/24Developer/output/github-contribution-grid-snake-dark.svg" width="90%"/>
@@ -81,15 +108,15 @@ I enjoy building projects using **ESP32, C++, and Python**, as well as developin
 </a>
 
 <a href="mailto:idrisdeveloper2@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-0f172a?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
+<img src="https://img.shields.io/badge/Email-Contact%20Me-0f172a?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
 </a>
 
 <a href="https://www.youtube.com/@Yan-gc9pb">
-<img src="https://img.shields.io/badge/YouTube-Tech%20Content-0f172a?style=for-the-badge&logo=youtube&logoColor=FF0000"/>
+<img src="https://img.shields.io/badge/YouTube-Tech%20Creator-0f172a?style=for-the-badge&logo=youtube&logoColor=FF0000"/>
 </a>
 
 <br/><br/>
 
-<i>“Learning, building, and improving — one project at a time.”</i>
+<i>"Great engineers build systems, not just code."</i>
 
 </div>
