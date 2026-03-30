@@ -16,7 +16,7 @@ Saya adalah seorang *Software Engineer* berusia 17 tahun dari Klaten, Indonesia.
 - 👯 **I’m looking to collaborate on:** Proyek *Open-source* berbasis CodeIgniter 4, solusi IoT, atau pengembangan skrip game.
 - 💬 **Ask me about:** C++, Arduino/ESP32, PHP (CodeIgniter 4), infrastruktur game server (SAMP/Minecraft), dan *UI/UX animations*.
 - 📫 **How to reach me:** Kirim pesan ke **idrisdeveloper2@gmail.com** atau DM via Instagram [@dyn_idrs](https://instagram.com/dyn_idrs/).
-- ⚡ **Fun fact:** Saya bisa merancang UI *glassmorphism* yang sinematik sekaligus menulis kode tingkat rendah (C++) untuk mikrokontroler!
+- ⚡ **Fun fact:** Saya Suka Membuat Apasaja Dengan Bantuan AI hehe
 
 ---
 
