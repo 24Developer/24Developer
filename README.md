@@ -51,26 +51,23 @@ Seorang *Software Engineer* berusia 17 tahun dari Klaten, Indonesia. Saya memili
 
 ---
 
-### 📊 GitHub Activity
+### 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=24Developer&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0e1a&v=2" alt="Daiyan's Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=24Developer&theme=tokyonight&hide_border=true&background=0a0e1a" alt="Daiyan's Streak" width="48%" />
-</div>
-<br/>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=24Developer&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0e1a&v=2" alt="Top Languages" width="45%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=24Developer&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="Daiyan's Trophies" />
 </div>
 
 ---
 
-### 🎮 Take a Break: Play Tic-Tac-Toe!
+### 📊 GitHub Activity
 
 <div align="center">
-  <i>Klik kotak di bawah untuk bermain melawan bot!</i><br/><br/>
-  <a href="https://github.com/24Developer/24Developer">
-    <img src="https://readme-tic-tac-toe.vercel.app/api/board?theme=tokyonight" alt="Tic Tac Toe Board" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=24Developer&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0e1a&cache_seconds=86400" alt="Daiyan's Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=24Developer&theme=tokyonight&hide_border=true&background=0a0e1a" alt="Daiyan's Streak" width="48%" />
+</div>
+<br/>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=24Developer&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0e1a&cache_seconds=86400" alt="Top Languages" width="45%" />
 </div>
 
 ---
@@ -79,9 +76,9 @@ Seorang *Software Engineer* berusia 17 tahun dari Klaten, Indonesia. Saya memili
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/24Developer/24Developer/output/github-contribution-grid-snake-dark.svg?v=1">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/24Developer/24Developer/output/github-contribution-grid-snake.svg?v=1">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/24Developer/24Developer/output/github-contribution-grid-snake-dark.svg?v=1">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/24Developer/24Developer/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/24Developer/24Developer/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/24Developer/24Developer/output/github-contribution-grid-snake-dark.svg">
   </picture>
 </div>
 
