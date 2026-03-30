@@ -66,7 +66,7 @@ Seorang *Software Engineer* berusia 17 tahun dari Klaten, Indonesia. Saya memili
 <div align="center">
   <i>Bosan ngoding? Berani lawan AI Tic-Tac-Toe dengan tingkat kesulitan Hardcore? Klik tombol di bawah!</i><br/><br/>
   <a href="https://playtictactoe.org/">
-    <img src="https://img.shields.io/badge/🎮_PLAY_TIC--TAC--TOE-8B5CF6?style=for-the-badge&padding=large&logoColor=white" alt="Play Tic Tac Toe Button" />
+    <img src="https://img.shields.io/badge/🎮_PLAY_TIC--TAC--TOE-8B5CF6?style=for-the-badge&padding=large&logoColor=white" alt="Play Tic Tac Toe" />
   </a>
 </div>
 
@@ -86,10 +86,6 @@ Seorang *Software Engineer* berusia 17 tahun dari Klaten, Indonesia. Saya memili
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=8b5cf6&height=2&width=100%">
-  <br/><br/>
-  <a href="https://github.com/24Developer">
-    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F24Developer&count_bg=%238B5CF6&title_bg=%231A1B27&icon=github.svg&icon_color=%23E7E7E7&title=PROFILE+VIEWS&edge_flat=false" alt="Profile Views Counter"/>
-  </a>
   <br/><br/>
   <i>"Proudly built with obsession, coffee, and AI. ☕🤖"</i>
   <br/><br/>
