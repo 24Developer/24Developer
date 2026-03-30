@@ -18,7 +18,7 @@ Seorang *Software Engineer* berusia 17 tahun dari Klaten, Indonesia. Saya memili
 * 🏆 **Milestone:** Juara 2 Nasional AMICTA (Amikom ICT Award) di bidang *Internet of Things* (IoT).
 * 👯 **Open to collaborate on:** Proyek *Open-source* CodeIgniter 4, inovasi IoT, atau *game server scripts*.
 * 💬 **Let's talk about:** C++, Arduino/ESP32, PHP (CodeIgniter 4), infrastruktur game server (SAMP/Minecraft), dan *UI/UX animations*.
-* ⚡ **Fun fact:** Saya bisa merakit *hardware* IoT, ngoding *backend*, bikin UI *glassmorphism* sinematik, dan kerja *10x faster* berkat bantuan AI! 🤖✨
+* ⚡ **Fun fact:** Saya bisa merakit *hardware* IoT, ngoding *backend*, bikin UI , dan lain lain pokoknya *APAAJA*
 
 ---
 
