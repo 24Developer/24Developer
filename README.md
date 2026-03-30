@@ -1,18 +1,23 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0f172a&height=230&section=header&text=Daiyan%20Idris%20Haryanto&fontSize=48&fontColor=22c55e&animation=fadeIn&fontAlignY=38&desc=Engineering%20Student%20%7C%20IoT%20Developer%20Indonesia&descColor=94a3b8&descAlignY=62"/>
+<!-- ANIMATED HEADER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0f172a&height=250&section=header&text=Daiyan%20Idris%20Haryanto&fontSize=50&fontColor=22c55e&animation=twinkling&fontAlignY=40&desc=Engineering%20Student%20%7C%20IoT%20Developer&descColor=94a3b8&descAlignY=65"/>
+
+<!-- TYPING ANIMATION -->
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=22C55E&center=true&vCenter=true&width=600&lines=Engineering+Student+from+Indonesia;IoT+Developer+(ESP32+%2F+Embedded);Backend+Builder+(PHP+%2F+CI4);Linux+%26+Server+Enthusiast;Building+Real+World+Systems" />
 
 <br/>
 
-<img src="https://media0.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="40%" />
+<!-- SMALL AESTHETIC GIF -->
+<img src="https://media0.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="35%" />
 
 <br/><br/>
 
-<h2>Engineering Student • IoT Developer • System Builder</h2>
+<h2>⚡ Building Systems That Actually Work</h2>
 
 <p>
-I build real systems — from <b>embedded devices</b> to <b>web applications</b> and <b>server infrastructure</b>.<br/>
-Based in Central Java, Indonesia 🇮🇩
+Embedded • Backend • Infrastructure<br/>
+Indonesia 🇮🇩
 </p>
 
 </div>
@@ -21,77 +26,53 @@ Based in Central Java, Indonesia 🇮🇩
 
 ## 🧠 About Me
 
-I'm an **Engineering Student from Indonesia** focused on building **efficient, scalable, and real-world technology solutions**.
+I am an **Engineering Student from Indonesia** who focuses on building **real-world systems** combining hardware and software.
 
-My work spans across:
-- Embedded Systems (ESP32 / IoT)
-- Backend Web Development (PHP / CodeIgniter)
-- Linux Server & Infrastructure
+I work across:
+- 🔌 **IoT Systems (ESP32, Embedded C++)**
+- 🌐 **Backend Development (PHP, CodeIgniter 4)**
+- 🖥️ **Linux Server & Infrastructure**
 
-I don’t just learn — I build, test, and deploy.
-
-- 🚀 Current: **SASADAY MART (Modern POS System)**
-- 🏆 Achievement: **2nd Place AMICTA – National IoT Innovation**
-- ⚡ Mindset: *Build first. Optimize later. Master both.*
+💡 I don’t just code — I build systems that run.
 
 ---
 
-## ⚙️ Tech Stack & Tools
+## ⚙️ Tech Stack
 
 <div align="center">
 
-### 💻 Programming & Development
-<img src="https://skillicons.dev/icons?i=cpp,python,php,js,html,css" />
-
-### 🧠 Frameworks & Tools
-<img src="https://skillicons.dev/icons?i=tailwind,nodejs,express" />
-
-### 🔌 IoT & Embedded
-<img src="https://img.shields.io/badge/ESP32-Embedded%20Systems-1f2937?style=for-the-badge&logo=espressif&logoColor=red"/>
-<img src="https://img.shields.io/badge/Arduino-IoT%20Platform-1f2937?style=for-the-badge&logo=arduino&logoColor=00979D"/>
-
-### 🖥️ Infrastructure & DevOps
-<img src="https://skillicons.dev/icons?i=linux,docker,git,github" />
+<!-- ICON ANIMATION STYLE -->
+<img src="https://skillicons.dev/icons?i=cpp,python,php,js,html,css,linux,docker,git,github&perline=5" />
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/CodeIgniter4-PHP%20Framework-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-Database-0f172a?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pterodactyl-Server%20Panel-1d4ed8?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/ESP32-IoT%20Systems-111827?style=for-the-badge&logo=espressif&logoColor=red"/>
+<img src="https://img.shields.io/badge/Arduino-Embedded-111827?style=for-the-badge&logo=arduino&logoColor=00ADB5"/>
+<img src="https://img.shields.io/badge/CodeIgniter4-Backend-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-Database-111827?style=for-the-badge&logo=mysql&logoColor=white"/>
 
 </div>
 
 ---
 
-## 🚀 Featured Focus
+## 🚀 Live Activity
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/SASADAY%20MART-POS%20System-22c55e?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/ESP32-IoT%20Projects-0f172a?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Linux-Server%20Management-0f172a?style=for-the-badge"/>
+<!-- STATS -->
+<img src="https://github-readme-stats.vercel.app/api?username=24Developer&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" width="47%"/>
 
-</div>
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=24Developer&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=24Developer&theme=tokyonight&hide_border=true" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=24Developer&theme=tokyonight&hide_border=true" width="47%"/>
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=24Developer&layout=compact&theme=tokyonight&hide_border=true" width="40%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=24Developer&theme=tokyo-night&hide_border=true" width="90%"/>
 
 </div>
 
 ---
 
-## 🐍 Contribution Graph
+## 🐍 Contribution Snake (Animated)
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/24Developer/24Developer/output/github-contribution-grid-snake-dark.svg" width="90%"/>
@@ -103,20 +84,24 @@ I don’t just learn — I build, test, and deploy.
 
 <div align="center">
 
+<img src="https://komarev.com/ghpvc/?username=24Developer&label=Profile%20Views&color=22c55e&style=flat" />
+
+<br/><br/>
+
 <a href="https://instagram.com/dyn_idrs/">
-<img src="https://img.shields.io/badge/Instagram-Dyn_Idrs-0f172a?style=for-the-badge&logo=instagram&logoColor=E4405F"/>
+<img src="https://img.shields.io/badge/Instagram-Connect-111827?style=for-the-badge&logo=instagram&logoColor=E4405F"/>
 </a>
 
 <a href="mailto:idrisdeveloper2@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact%20Me-0f172a?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
+<img src="https://img.shields.io/badge/Email-Contact-111827?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
 </a>
 
 <a href="https://www.youtube.com/@Yan-gc9pb">
-<img src="https://img.shields.io/badge/My YouTube-0f172a?style=for-the-badge&logo=youtube&logoColor=FF0000"/>
+<img src="https://img.shields.io/badge/YouTube-Channel-111827?style=for-the-badge&logo=youtube&logoColor=FF0000"/>
 </a>
 
 <br/><br/>
 
-<i>"Great engineers build systems, not just code."</i>
+<i>“First, make it work. Then, make it fast.”</i>
 
 </div>
