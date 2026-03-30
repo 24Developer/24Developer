@@ -1,23 +1,12 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Righteous&size=35&duration=3000&pause=2000&color=4ecca3&center=true&vCenter=true&width=900&lines=🌿+Welcome+to+My+Forest+of+Code+🌿;Software+Engineer+%7C+IoT+Enthusiast+%7C+Server+Admin;Building+Beautiful+Systems+with+Code;Powered+by+☕+%26+AI+🤖" alt="Typing SVG" />
-</div>
 
-<div align="center">
-  <svg width="100%" height="100" viewBox="0 0 1000 100" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="none">
-    <defs>
-      <style>
-        @keyframes float1 { 0%, 100% { transform: translateY(0px); } 50% { transform: translateY(-15px); } }
-        @keyframes float2 { 0%, 100% { transform: translateY(0px); } 50% { transform: translateY(-20px); } }
-        .leaf1 { animation: float1 3s ease-in-out infinite; }
-        .leaf2 { animation: float2 3.5s ease-in-out infinite; }
-      </style>
-    </defs>
-    <!-- Decorative leaves -->
-    <text x="50" y="60" font-size="50" class="leaf1">🍃</text>
-    <text x="150" y="60" font-size="40" class="leaf2">🌿</text>
-    <text x="900" y="60" font-size="45" class="leaf1">🍂</text>
-    <text x="850" y="70" font-size="35" class="leaf2">🌱</text>
-  </svg>
+# 🌿 Welcome to My Forest of Code 🌿
+
+### Software Engineer | IoT Enthusiast | Server Admin
+#### Building Beautiful Systems with Code | Powered by ☕ & AI 🤖
+
+🍃 🌿 🍂 🌱 🍃 🌿
+
 </div>
 
 ---
@@ -31,6 +20,15 @@
 🌍 Building high-performance web systems & intelligent IoT architectures
 ☕ Powered by coffee, curiosity, and continuous learning
 ```
+
+---
+
+### 🚀 **Quick Setup Instructions**
+
+> **PENTING:** Sebelum copy ke GitHub, ganti placeholder ini dengan data kamu:
+> - `YOUR_USERNAME` → Username GitHub kamu
+> - Email & Instagram → Profil kamu sendiri
+> - Kustom bagian "About Me" sesuai dengan bio kamu
 
 ---
 
@@ -175,29 +173,42 @@ IoT & Game Server Projects
 
 <div align="center">
   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=24Developer&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d3d2c&title_color=4ecca3&icon_color=6dd5b0" alt="GitHub Stats" />
+  ![Daiyan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true&bg_color=1a1a1a&title_color=4ecca3&icon_color=6dd5b0&text_color=e0e0e0&border_color=2d8f7f)
   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=24Developer&layout=compact&theme=github_dark&hide_border=true&bg_color=0d3d2c&title_color=4ecca3" alt="Top Languages" />
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true&bg_color=1a1a1a&title_color=4ecca3&text_color=e0e0e0&border_color=2d8f7f)
+
+> **⚠️ PENTING:** Ganti semua `YOUR_USERNAME` dengan username GitHub kamu!
 
 </div>
 
 ---
 
-## 💡 **Featured Skills Breakdown**
+## 💡 **Featured Skills**
 
 <div align="center">
 
 ### 🎓 Languages I'm Most Comfortable With
 
-<img src="https://skillicons.dev/icons?i=cpp,php,python,javascript,lua&perline=5" />
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+<img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" alt="Lua" />
 
 ### 🧰 Tools & Technologies
 
-<img src="https://skillicons.dev/icons?i=arduino,linux,docker,git,mysql,nginx&perline=6" />
+<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+<img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx" />
 
 ### 📱 Frameworks & Libraries
 
-<img src="https://skillicons.dev/icons?i=codeigniter,tailwind,astro&perline=3" />
+<img src="https://img.shields.io/badge/CodeIgniter%204-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white" alt="CodeIgniter 4" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+<img src="https://img.shields.io/badge/Astro-FF5D01?style=for-the-badge&logo=astro&logoColor=white" alt="Astro" />
 
 </div>
 
@@ -239,9 +250,11 @@ IoT & Game Server Projects
 <a href="https://instagram.com/dyn_idrs/">
   <img src="https://img.shields.io/badge/Instagram-%40dyn__idrs-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
 </a>
-<a href="https://github.com/24Developer">
-  <img src="https://img.shields.io/badge/GitHub-24Developer-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+<a href="https://github.com/YOUR_USERNAME">
+  <img src="https://img.shields.io/badge/GitHub-YOUR_USERNAME-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
+
+> **Catatan:** Ganti email, Instagram, dan GitHub dengan profile kamu
 
 </div>
 
@@ -249,22 +262,16 @@ IoT & Game Server Projects
 
 <div align="center">
   
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=16&duration=3000&pause=2000&color=4ecca3&center=true&vCenter=true&width=600&lines=Proudly+built+with+obsession%2C+coffee%2C+and+AI+☕🤖;From+forest+codes+to+sky+of+innovation+🌿➡️🚀" alt="Quote" />
+  ✨ **Proudly built with obsession, coffee, and AI** ☕🤖 ✨
+
+  **From forest codes to sky of innovation** 🌿 ➡️ 🚀
 
   <br/>
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d3d2c&height=100&section=footer&reverseDirection=true" alt="Footer Wave" />
-
-</div>
-
----
-
-<div align="center">
-  
-  **© 2024 Daiyan | All Rights Reserved**
+  © 2024 Daiyan | All Rights Reserved
   
   *Semarang, Central Java, Indonesia 🇮🇩*
   
-  <img src="https://komarev.com/ghpvc/?username=24Developer&color=4ecca3&style=flat-square" alt="Profile Views" />
+  ![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=4ecca3&style=flat-square)
 
 </div>
