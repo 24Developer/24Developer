@@ -104,7 +104,7 @@ I don’t just learn — I build, test, and deploy.
 <div align="center">
 
 <a href="https://instagram.com/dyn_idrs/">
-<img src="https://img.shields.io/badge/Instagram-Engineering%20Student-0f172a?style=for-the-badge&logo=instagram&logoColor=E4405F"/>
+<img src="https://img.shields.io/badge/Instagram-Dyn_Idrs-0f172a?style=for-the-badge&logo=instagram&logoColor=E4405F"/>
 </a>
 
 <a href="mailto:idrisdeveloper2@gmail.com">
@@ -112,7 +112,7 @@ I don’t just learn — I build, test, and deploy.
 </a>
 
 <a href="https://www.youtube.com/@Yan-gc9pb">
-<img src="https://img.shields.io/badge/YouTube-Tech%20Creator-0f172a?style=for-the-badge&logo=youtube&logoColor=FF0000"/>
+<img src="https://img.shields.io/badge/My YouTube-0f172a?style=for-the-badge&logo=youtube&logoColor=FF0000"/>
 </a>
 
 <br/><br/>
